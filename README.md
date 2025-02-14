@@ -1,14 +1,20 @@
 <h1 align="center">Salut 👋! Je suis Alseny</h1>
 <h3 align="center">Un Data Scientist & Mchine Learning Engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DataEngineer87](https://github.com/DataEngineer87)
+<h1 align="center">Hi I'm Code-Oz</h1>
 
-- 📄 Know about my experiences [https://dataengineer87.github.io/Portofolio_Alseny/](https://dataengineer87.github.io/Portofolio_Alseny/)
+<!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
     <h3 align="center">Love JS, love writting dev article and share my knowledges.</h3>
     <h3 align="center">I'm web developper</h3>
 </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/DataEngineer87](https://github.com/DataEngineer87)
+
+- 📄 Know about my experiences [https://dataengineer87.github.io/Portofolio_Alseny/](https://dataengineer87.github.io/Portofolio_Alseny/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alseny-sacko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alseny-sacko/" height="30" width="40" /></a>
