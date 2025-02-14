@@ -15,3 +15,6 @@
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
+<p align="center">
+    <h4>Le forgeron de données</h4>
+</p>
