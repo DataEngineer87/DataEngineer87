@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, Je suis Alseny</h1>
-<h3 align="center">Data Scientist & Mchine Learning Engineer</h3>
+<h1 align="center">Salut 👋! Je suis Alseny</h1>
+<h3 align="center">Un Data Scientist & Mchine Learning Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://dataengineer87.github.io/Portofolio_Alseny/](https://dataengineer87.github.io/Portofolio_Alseny/)
 
