@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋! Je suis Alseny</h1>
 <h3 align="center">Un Data Scientist & Mchine Learning Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://dataengineer87.github.io/Portofolio_Alseny/](https://dataengineer87.github.io/Portofolio_Alseny/)
+- 👨‍💻 All of my projects are available at [https://github.com/DataEngineer87](https://github.com/DataEngineer87)
 
 - 📄 Know about my experiences [https://dataengineer87.github.io/Portofolio_Alseny/](https://dataengineer87.github.io/Portofolio_Alseny/)
 
