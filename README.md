@@ -4,8 +4,7 @@
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
-    <h3 align="center">Love JS, love writting dev article and share my knowledges.</h3>
-    <h3 align="center">I'm web developper</h3>
+    <h3 align="center">J'aime donner le sens aux données.</h3>
 </p>
 
 <p style="margin: 15px;" align="center">
