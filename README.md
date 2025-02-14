@@ -1,6 +1,5 @@
 <h1 align="center">Salut 👋! Je suis Alseny</h1>
-<h3 align="center">Un Data Scientist & Mchine Learning Engineer</h3>#
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DataEngineer87&label=Profile%20views&color=0e75b6&style=flat" alt="DataEngineer87" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DataEngineer87&label=Profile%20views&color=0e75b6&style=flat" alt="DataEngineer87"/> </p>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Donner+du+sens+à+vos+données">
