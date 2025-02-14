@@ -1,4 +1,4 @@
-<h5 align="center">Salut 👋! Je donne du sens à vos données en extrayant des insights pertinents et en développant des modèles intelligents pour éclairer vos décisions.</h5>
+<h3 align="center">Salut 👋! Data Scientist & Machine Learning Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DataEngineer87&label=Profile%20views&color=0e75b6&style=flat" alt="DataEngineer87"/> </p>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
