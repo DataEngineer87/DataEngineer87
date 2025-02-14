@@ -7,11 +7,6 @@
     <h3 align="center">J'aime donner le sens aux données.</h3>
 </p>
 
-<p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter= Data Scientist & Mchine Learning Engineer">
-    <h3 align="center">J'aime donner le sens aux données.</h3>
-</p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/DataEngineer87](https://github.com/DataEngineer87)
 
 - 📄 Know about my experiences [https://dataengineer87.github.io/Portofolio_Alseny/](https://dataengineer87.github.io/Portofolio_Alseny/)
