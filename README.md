@@ -5,10 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=je+donne+du+sens+à+vos+données">
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DataEngineer87](https://github.com/DataEngineer87)
-
-- 📄 Know about my experiences [https://dataengineer87.github.io/Portofolio_Alseny/](https://dataengineer87.github.io/Portofolio_Alseny/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alseny-sacko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alseny-sacko/" height="30" width="40" /></a>
