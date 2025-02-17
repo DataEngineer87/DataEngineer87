@@ -1,4 +1,4 @@
-<h2 align="center">Salut 👋! Je suis Alseny, Data Scientist & Machine Learning Engineer.</h2>
+<h2 align="center">Salut <span style="color: red;">👋!</span>! Je suis Alseny, Data Scientist & Machine Learning Engineer.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DataEngineer87&label=Profile%20views&color=d93e13&style=flat" alt="DataEngineer87"/> </p>
 <!-- Intro -->
 <p style="margin: 25px;" align="center">
