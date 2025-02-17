@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DataEngineer87&label=Profile%20views&color=b53410&style=flat" alt="DataEngineer87"/> </p>
 <!-- Intro -->
 <p style="margin: 25px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=b53410&center=true&vCenter=true&lines=Je+vous+aide+à+transformer+vos+données+en+décisions+stratégiques&width=800">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=d93e13&center=true&vCenter=true&lines=Je+vous+aide+à+transformer+vos+données+en+décisions+stratégiques&width=800">
 </p>
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
