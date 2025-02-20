@@ -14,7 +14,7 @@
 
   .<h3 align="left">Découvrez mon portofolio:</h3> [👨‍💻Ici](https://dataengineer87.github.io/Portofolio_Alseny/)
  
-  . <h3 align="left">Consultez mes projets:</h3> [📝Ici](https://github.com/dashboard)
+  . <h3 align="left">Consultez mes réalisations:</h3> [📝Ici](https://github.com/dashboard)
 
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
