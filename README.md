@@ -1,8 +1,8 @@
-<h2 align="center">Salut 👋! Je suis Alseny, Data Scientist & Machine Learning Engineer.</h2>
+<h2 align="center">Salut👋Je m'appelle Alseny, Data Scientist et Ingénieur en Machine Learning, spécialisé dans la création de solutions data à fort impact.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DataEngineer87&label=Profile%20views&color=d93e13&style=flat" alt="DataEngineer87"/> </p>
 <!-- Intro -->
 <p style="margin: 25px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=d93e13&center=true&vCenter=true&lines=Je+vous+accompagne+dans+la+transformation+de+vos+données+en+décisions+stratégiques&width=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=d93e13&center=true&vCenter=true&lines= J’aide+les entreprises+à+tirer+parti+de+leurs+données+grâce+à+des+modèles+intelligents+,+pour+générer+des+insights+concrets+et+guider+des+ décisions+éclairées&width=1000">
 </p>
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
