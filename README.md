@@ -1,4 +1,4 @@
-<h3 align="center">Salut 👋 Je suis Alseny, Data Scientist et Ingénieur en Machine Learning, spécialisé dans la conception et le déploiement de solutions data scalables et à fort impact business..</h3>
+<h3 align="center">Salut 👋 Data Scientist et Ingénieur en Machine Learning, spécialisé dans la conception et le déploiement de solutions data et IA, scalables et à fort impact business.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DataEngineer87&label=Profile%20views&color=d93e13&style=flat" alt="DataEngineer87"/> </p>
 <!-- Intro -->
 <p style="margin: 25px;" align="center">
